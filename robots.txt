@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rancheef-anit-o.github.io/doc-share/sitemap.xml
